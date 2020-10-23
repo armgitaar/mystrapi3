@@ -1,4 +1,4 @@
-# front
+# mystrapi3
 
 ## Build Setup
 
